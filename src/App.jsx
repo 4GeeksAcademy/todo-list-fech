@@ -80,7 +80,7 @@ function App() {
               }}
             />
             <span className="todo-item-text">{item.task}</span>
-            <button onClick={() => delteTodo(item.id)} className="delete">
+            <button onClick={() => deleteTodo(item.id)} className="delete">
               ❌
             </button>
           </li>
