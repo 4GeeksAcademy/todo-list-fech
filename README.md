@@ -1,5 +1,3 @@
-https://todo-list-kohl-eight.vercel.app/
 
-https://derki26.github.io/todo-list/
+https://todo-list-fech.vercel.app/
 
-https://github.com/Derki26/todo-list.git
